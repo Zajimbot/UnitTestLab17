@@ -1,0 +1,11 @@
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.AssemblyReference.cache
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.sourcelink.json
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+C:\Users\kartu\Desktop\Учеба\Тестирование\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb
